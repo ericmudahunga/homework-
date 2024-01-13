@@ -1,0 +1,270 @@
+Q1 
+
+........
+using System;
+
+class Program
+{
+    static void Main()
+    {
+        // Change the greeting to "Good morning, world!"
+        Console.WriteLine("Good morning, world!");
+    }
+}
+.........
+
+Q2
+......
+using System;
+
+class Program
+{
+    static void Main()
+    {
+        // Change the greeting to "Good morning, world!"
+        Console.WriteLine("Good morning, world!");
+
+        // Add a personal touch with your name
+        Console.WriteLine("My name is [your name]");
+    }
+}
+.......
+
+Q3
+....
+using System;
+
+class Program
+{
+    static void Main()
+    {
+        // Change the greeting to "Good morning, world!"
+        Console.WriteLine("Good morning, world!");
+
+        // Add a personal touch with your name
+        Console.WriteLine("My name is [your name]");
+
+        // Perform a simple arithmetic operation (5 + 3) and print the result
+        int result = 5 + 3;
+        Console.WriteLine("Result of 5 + 3 is: " + result);
+    }
+}
+.....
+Q4
+........
+using System;
+
+class Program
+{
+    static void Main()
+    {
+        // Change the greeting to "Good morning, world!"
+        Console.WriteLine("Good morning, world!");
+
+        // Add a personal touch with your name
+        Console.WriteLine("My name is [your name]");
+
+        // Perform a simple arithmetic operation (5 + 3) and print the result
+        int result = 5 + 3;
+        Console.WriteLine("Result of 5 + 3 is: " + result);
+
+        // Print two additional lines of text
+        Console.WriteLine("This is another line of text.");
+        Console.WriteLine("Programming is fun!");
+    }
+}
+......
+Q5
+.......
+using System;
+
+class Program
+{
+    static void Main()
+    {
+        // Change the greeting to "Good morning, world!"
+        Console.WriteLine("Good morning, world!");
+
+        // Introduce a string variable to hold your name
+        string myName = "[your name]";
+
+        // Use the variable in a Console.WriteLine statement
+        Console.WriteLine("My name is " + myName);
+
+        // Perform a simple arithmetic operation (5 + 3) and print the result
+        int result = 5 + 3;
+        Console.WriteLine("Result of 5 + 3 is: " + result);
+
+        // Print two additional lines of text
+        Console.WriteLine("This is another line of text.");
+        Console.WriteLine("Programming is fun!");
+    }
+}
+......
+Q6
+.......
+using System;
+
+class Program
+{
+    static void Main()
+    {
+        // Change the greeting to "Good morning, world!"
+        Console.WriteLine("Good morning, world!");
+
+        // Introduce a string variable to hold your name
+        string myName = "[your name]";
+
+        // Use string concatenation to combine two strings in a Console.WriteLine statement
+        Console.WriteLine("My name is " + myName);
+
+        // Perform a simple arithmetic operation (5 + 3) and print the result
+        int result = 5 + 3;
+        Console.WriteLine("Result of 5 + 3 is: " + result);
+
+        // Print two additional lines of text
+        Console.WriteLine("This is another line of text.");
+        Console.WriteLine("Programming is fun!");
+    }
+}
+......
+Q7
+......
+using System;
+
+class Program
+{
+    static void Main()
+    {
+        // Change the greeting to "Good morning, world!"
+        Console.WriteLine("Good morning, world!");
+
+        // Introduce a string variable to hold your name
+        string myName = "[your name]";
+
+        // Use string concatenation to combine two strings in a Console.WriteLine statement
+        Console.WriteLine("My name is " + myName);
+
+        // Perform a simple arithmetic operation (5 + 3) and print the result
+        int result = 5 + 3;
+        Console.WriteLine("Result of 5 + 3 is: " + result);
+
+        // Print two additional lines of text
+        Console.WriteLine("This is another line of text.");
+        Console.WriteLine("Programming is fun!");
+
+        // Read user input and print it out
+        Console.Write("Enter something: ");
+        string userInput = Console.ReadLine();
+        Console.WriteLine("You entered: " + userInput);
+    }
+}
+......
+Q8
+.......
+using System;
+
+class Program
+{
+    static void Main()
+    {
+        // Change the greeting to "Good morning, world!"
+        Console.WriteLine("Good morning, world!");
+
+        // Introduce a string variable to hold your name
+        string myName = "[your name]";
+
+        // Use string concatenation to combine two strings in a Console.WriteLine statement
+        Console.WriteLine("My name is " + myName);
+
+        // Perform a simple arithmetic operation (5 + 3) and print the result
+        int result = 5 + 3;
+        Console.WriteLine("Result of 5 + 3 is: " + result);
+
+        // Print two additional lines of text
+        Console.WriteLine("This is another line of text.");
+        Console.WriteLine("Programming is fun!");
+
+        // Read user input and print it out
+        Console.Write("Enter something: ");
+        string userInput = Console.ReadLine();
+        Console.WriteLine("You entered: " + userInput);
+    }
+}
+......
+Q9
+.....
+using System;
+
+class Program
+{
+    static void Main()
+    {
+        // Change the greeting to "Good morning, world!"
+        Console.WriteLine("Good morning, world!");
+
+        // Introduce a string variable to hold your name
+        string myName = "[your name]";
+
+        // Use string concatenation to combine two strings in a Console.WriteLine statement
+        Console.WriteLine("My name is " + myName);
+
+        // Perform a simple arithmetic operation (5 + 3) and print the result
+        int result = 5 + 3;
+        Console.WriteLine("Result of 5 + 3 is: " + result);
+
+        // Print two additional lines of text
+        Console.WriteLine("This is another line of text.");
+        Console.WriteLine("Programming is fun!");
+
+        // Print out your favorite number
+        int favoriteNumber = 7; // Change this to your actual favorite number
+        Console.WriteLine("My favorite number is: " + favoriteNumber);
+
+        // Read user input and print it out
+        Console.Write("Enter something: ");
+        string userInput = Console.ReadLine();
+        Console.WriteLine("You entered: " + userInput);
+    }
+}
+.......
+Q10
+......
+using System;
+
+class Program
+{
+    static void Main()
+    {
+        // Change the greeting to "Good morning, world!"
+        Console.WriteLine("Good morning, world!");
+
+        // Introduce a string variable to hold your name
+        string myName = "[your name]";
+
+        // Use string concatenation to combine two strings in a Console.WriteLine statement
+        Console.WriteLine("My name is " + myName);
+
+        // Perform a simple arithmetic operation (5 + 3) and print the result
+        int result = 5 + 3;
+        Console.WriteLine("Result of 5 + 3 is: " + result);
+
+        // Print two additional lines of text
+        Console.WriteLine("This is another line of text.");
+        Console.WriteLine("Programming is fun!");
+
+        // Print out your favorite number
+        int favoriteNumber = 42; // Change this to your actual favorite number
+        Console.WriteLine("My favorite number is: " + favoriteNumber);
+
+        // Display today's date
+        DateTime currentDate = DateTime.Now;
+        Console.WriteLine("Today's date is: " + currentDate.ToString("yyyy-MM-dd"));
+
+        // Read user input and print it out
+        Console.Write("Enter something: ");
+        string userInput = Console.ReadLine();
+        Console.WriteLine("You entered: " + userInput);
+    }
+}
+.....
